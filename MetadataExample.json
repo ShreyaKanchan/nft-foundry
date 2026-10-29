@@ -1,0 +1,6 @@
+{
+  "name": "Foundry Prototype #0",
+  "description": "An educational collectible for the NFT Foundry demo.",
+  "image": "ipfs://example-cid/0.png",
+  "attributes": [{"trait_type": "series", "value": "learning"}]
+}
